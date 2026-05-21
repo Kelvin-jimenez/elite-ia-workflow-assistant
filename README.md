@@ -36,6 +36,41 @@ The first version will:
 
 In progress.
 
+## Repository Structure
+
+```text
+elite-ia-workflow-assistant/
+│
+├── docs/
+│   ├── product-vision.md
+│   ├── backlog.md
+│   ├── mvp.md
+│   ├── architecture.md
+│   └── security.md
+│
+├── examples/
+│   └── sample-client-request.json
+│
+├── prompts/
+│   └── service-classifier-prompt.md
+│
+├── workflows/
+│   └── basic-client-request-workflow.md
+│
+└── README.md
+```
+
+## Current Progress
+
+- Product vision documented
+- Initial product backlog created
+- MVP scope defined
+- System architecture documented
+- Security and privacy guidelines created
+- Fake client request example added
+- Initial AI service classifier prompt created
+- Basic client request workflow documented
+
 ## Roadmap
 
 ### Phase 1: Product Definition
