@@ -49,6 +49,7 @@ elite-ia-workflow-assistant/
 │   ├── security.md
 │   ├── how-it-works.md
 │   ├── google-sheets-database.md
+│   ├── n8n-integration-plan.md
 │   └── linkedin-post-draft.md
 │
 ├── examples/
@@ -78,6 +79,7 @@ elite-ia-workflow-assistant/
 - LinkedIn post draft created
 - Git ignore file added for security
 - Google Sheets database documented
+- n8n integration plan documented
 
 ## Roadmap
 
