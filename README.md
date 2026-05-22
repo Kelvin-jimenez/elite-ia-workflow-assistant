@@ -48,6 +48,7 @@ elite-ia-workflow-assistant/
 │   ├── architecture.md
 │   ├── security.md
 │   ├── how-it-works.md
+│   ├── google-sheets-database.md
 │   └── linkedin-post-draft.md
 │
 ├── examples/
@@ -76,6 +77,7 @@ elite-ia-workflow-assistant/
 - How it works documentation added
 - LinkedIn post draft created
 - Git ignore file added for security
+- Google Sheets database documented
 
 ## Roadmap
 
