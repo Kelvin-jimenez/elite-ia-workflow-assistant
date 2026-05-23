@@ -51,6 +51,7 @@ elite-ia-workflow-assistant/
 │   ├── google-sheets-database.md
 │   ├── n8n-integration-plan.md
 │   ├── n8n-workflow-v1.md
+│   ├── n8n-workflow-v2-plan.md
 │   └── linkedin-post-draft.md
 │
 ├── examples/
@@ -82,6 +83,7 @@ elite-ia-workflow-assistant/
 - Google Sheets database documented
 - n8n integration plan documented
 - First n8n workflow V1 documented
+- n8n workflow V2 improvement plan documented
 
 ## Roadmap
 
