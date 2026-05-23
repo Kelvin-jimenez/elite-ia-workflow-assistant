@@ -85,7 +85,7 @@ elite-ia-workflow-assistant/
 - n8n integration plan documented
 - First n8n workflow V1 documented
 - n8n workflow V2 improved Gmail notification completed
-- n8n workflow V3 AI classification plan documented
+- n8n workflow V3 AI classification completed
 - Service classifier prompt updated for Workflow V3
 
 ## Roadmap
@@ -110,6 +110,8 @@ elite-ia-workflow-assistant/
 - Classify requests with AI
 - Generate request summary
 - Suggest client response
+- Store AI results in Google Sheets
+- Include AI analysis in internal Gmail notification
 
 ### Phase 4: Advanced Features
 
