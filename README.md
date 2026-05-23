@@ -50,6 +50,7 @@ elite-ia-workflow-assistant/
 │   ├── how-it-works.md
 │   ├── google-sheets-database.md
 │   ├── n8n-integration-plan.md
+│   ├── n8n-workflow-v1.md
 │   └── linkedin-post-draft.md
 │
 ├── examples/
@@ -80,6 +81,7 @@ elite-ia-workflow-assistant/
 - Git ignore file added for security
 - Google Sheets database documented
 - n8n integration plan documented
+- First n8n workflow V1 documented
 
 ## Roadmap
 
