@@ -83,7 +83,7 @@ elite-ia-workflow-assistant/
 - Google Sheets database documented
 - n8n integration plan documented
 - First n8n workflow V1 documented
-- n8n workflow V2 improvement plan documented
+- n8n workflow V2 improved Gmail notification completed
 
 ## Roadmap
 
@@ -100,6 +100,7 @@ elite-ia-workflow-assistant/
 - Connect form with Google Sheets
 - Create first n8n workflow
 - Send internal notification
+- Improve internal Gmail notification with full request details
 
 ### Phase 3: AI Integration
 
