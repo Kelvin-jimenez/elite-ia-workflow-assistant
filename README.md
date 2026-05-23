@@ -52,6 +52,7 @@ elite-ia-workflow-assistant/
 │   ├── n8n-integration-plan.md
 │   ├── n8n-workflow-v1.md
 │   ├── n8n-workflow-v2-plan.md
+│   ├── n8n-workflow-v3-ai-classification-plan.md
 │   └── linkedin-post-draft.md
 │
 ├── examples/
@@ -84,6 +85,7 @@ elite-ia-workflow-assistant/
 - n8n integration plan documented
 - First n8n workflow V1 documented
 - n8n workflow V2 improved Gmail notification completed
+- n8n workflow V3 AI classification plan documented
 
 ## Roadmap
 
