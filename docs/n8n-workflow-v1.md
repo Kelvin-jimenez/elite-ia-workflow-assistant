@@ -54,3 +54,17 @@ Update row in Google Sheets
         |
         v
 Send Gmail notification
+```
+
+## Production Status
+
+The workflow has been published in n8n.
+
+Production behavior:
+
+- The workflow listens for new or updated rows in Google Sheets
+- New requests are processed only if Request ID is empty
+- Processed requests receive a Request ID, Status and Internal Notes
+- One internal Gmail notification is sent per new request
+
+Status: Published
