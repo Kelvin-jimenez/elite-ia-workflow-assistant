@@ -86,6 +86,7 @@ elite-ia-workflow-assistant/
 - First n8n workflow V1 documented
 - n8n workflow V2 improved Gmail notification completed
 - n8n workflow V3 AI classification plan documented
+- Service classifier prompt updated for Workflow V3
 
 ## Roadmap
 
